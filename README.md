@@ -56,7 +56,7 @@ PhishGuard представляет собой тренажёр, в которо
 
 Основной канал обсуждения — раздел Discussions данного репозитория.
 Предложения и замечания принимаются через раздел Issues.
-Форма обратной связи: [ссылка добавляется после публикации]
+Форма обратной связи: (https://docs.google.com/forms/d/e/1FAIpQLSejCHoIqG45hcoYWA-CFtYD_jMF5R7YjOHd_MjqmJt-wI4_JQ/viewform?usp=publish-editor)
 
 ## Дорожная карта
 
